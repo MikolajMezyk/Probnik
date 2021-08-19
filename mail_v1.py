@@ -1,7 +1,7 @@
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-mail_content = '''Siema, jeżeli doszedł ten mail to jest gites śmiges i fajranckik
+mail_content = '''MAil wysłany bez wchodzenia na mail, z programu
 '''
 #The mail addresses and password
 sender_address = 'antoni.macko2137@gmail.com'

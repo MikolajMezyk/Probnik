@@ -76,7 +76,7 @@ namespace SMTP
             }
 
             // mail send process
-            /*
+            
             var smtp = new SmtpClient();
             try
             {
@@ -102,8 +102,7 @@ namespace SMTP
             {
                 MessageBox.Show("Type L error, mail not send");
             }
-            smtp.Disconnect(true);
-            */
+            smtp.Disconnect(true);        
             
         }
         //receive
